@@ -1,4 +1,4 @@
-Example how to update Microsoft Azure Attestation Policy
+Example how to Update <br/>Microsoft Azure Attestation Policy
 ===
 
 ```js
@@ -73,15 +73,15 @@ await resp4.json();
 
 ```
 
-This is "Attest URI" that you'll update (use yours URI please):
+This is "Attest URI" that you'll update <br/>(use yours URI please):
 ---
 > ![image](https://user-images.githubusercontent.com/13743374/279639971-7aee5dae-910a-4313-a98e-1dc95391ce29.png)
 
 
-This is policy content that might be updated (use yours policy text please):
+This is policy content that might be updated <br/>(use yours policy text please):
 ---
 > ![image](https://user-images.githubusercontent.com/13743374/279636319-4e536bf0-3db8-441b-b131-3cd206fa2e80.png)
 
-This is Token that must be updated to real value (use yours token please):
+This is Token that must be updated to real value <br/>(use yours token please):
 ---
 > ![image](https://user-images.githubusercontent.com/13743374/279637491-748b0a78-6eab-43bb-92c7-effca2431c86.png)
