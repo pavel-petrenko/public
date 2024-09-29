@@ -6,4 +6,6 @@ Some Public Pages:
 ===
 
 - [Example how to update Microsoft Azure Attestation Policy](https://pavel-petrenko.github.io/public/docs/2023-12-03%20Example%20how%20to%20update%20Microsoft%20Azure%20Attestation%20Policy)
+- [Example how to update Microsoft Azure Attestation Policy](https://pavel-petrenko.github.io/public/docs/2023-12-03%20Example%20how%20to%20update%20Microsoft%20Azure%20Attestation%20Policy)
+- [Example how to update Microsoft Azure Attestation Policy](https://pavel-petrenko.github.io/public/docs/2023-12-03%20Example%20how%20to%20update%20Microsoft%20Azure%20Attestation%20Policy)
 
